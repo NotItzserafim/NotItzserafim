@@ -1,3 +1,17 @@
+<!-- "Hero" Header -->
+<div align="center">
+  <img src="https://github.com/notitzserafim/notitzserafim/welcome.png" style="max-width: 60%;" alt="Welcome to my Github Profile" />
+  <br />
+  <br />
+  <img height="50" alt="My Name is Livio and I like Node.js" src="images/personal_note.svg" />
+  <br />
+  <br />
+
+</div>
+
+
+
+
 <!-- Footer -->
 <div align="center">
 
