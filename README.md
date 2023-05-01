@@ -1,6 +1,6 @@
 <!-- "Hero" Header -->
 <div align="center">
-  <img src="https://github.com/notitzserafim/notitzserafim/welcome.png" style="max-width: 60%;" alt="Welcome to my Github Profile" />
+  <img src="https://raw.githubusercontent.com/NotItzserafim/NotItzserafim/main/source/welcome.png" style="max-width: 60%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
   <a> My Name is Notitzserafim and I like minecraft servers </a>
