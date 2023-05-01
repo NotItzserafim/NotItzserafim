@@ -1,1 +1,8 @@
-![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FNotItzserafim&s=24&c=00ff00&bg=00000000&no=10&ff=linebeam&tb=&ta=)
+<!-- Footer -->
+
+<div align="center">
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
+
+![Visitor Count](https://profile-counter.glitch.me/brunnerlivio/count.svg)
