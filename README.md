@@ -3,7 +3,7 @@
   <img src="https://github.com/notitzserafim/notitzserafim/welcome.png" style="max-width: 60%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <img height="50" alt="My Name is Livio and I like Node.js" src="images/personal_note.svg" />
+  <a> My Name is Notitzserafim and I like minecraft servers </a>
   <br />
   <br />
 
