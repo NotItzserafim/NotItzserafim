@@ -3,19 +3,17 @@
   <img src="https://raw.githubusercontent.com/NotItzserafim/NotItzserafim/main/source/welcome.png" style="max-width: 60%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <a> My Name is Notitzserafim and I like minecraft servers </a>
   <br />
   <br />
-
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
 </div>
-
-
-
-
 <!-- Footer -->
 <div align="center">
-
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/NotItzserafim/NotItzserafim/main/source/text.svg" />
 
 ![Visitor Count](https://profile-counter.glitch.me/brunnerlivio/count.svg)
 
